@@ -1,0 +1,10 @@
+[uBlock Origin 1.14.8+]
+! Title: domainless annoying stickybar filter
+! Description: A generic list that makes annoying sticky headers unsticky
+! Expires: 14 days
+! Author: elypter
+! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
+! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
+! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! License: GPL-3.0
+

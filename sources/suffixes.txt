@@ -1,0 +1,15 @@
+menu
+bar
+header
+head
+main
+top
+banner
+sticky
+navigation
+nav
+default
+custom
+static
+container
+box
