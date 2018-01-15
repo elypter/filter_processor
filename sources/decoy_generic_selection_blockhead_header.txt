@@ -3,8 +3,8 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
