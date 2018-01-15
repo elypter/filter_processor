@@ -3,9 +3,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.com##div[class*="sticky"]:style(position: static!important)
@@ -375,9 +375,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.ru##div[class*="sticky"]:style(position: static!important)
@@ -747,9 +747,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.net##div[class*="sticky"]:style(position: static!important)
@@ -1119,9 +1119,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.org##div[class*="sticky"]:style(position: static!important)
@@ -1491,9 +1491,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.de##div[class*="sticky"]:style(position: static!important)
@@ -1863,9 +1863,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.jp##div[class*="sticky"]:style(position: static!important)
@@ -2235,9 +2235,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.br##div[class*="sticky"]:style(position: static!important)
@@ -2607,9 +2607,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.uk##div[class*="sticky"]:style(position: static!important)
@@ -2979,9 +2979,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.cn##div[class*="sticky"]:style(position: static!important)
@@ -3351,9 +3351,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.in##div[class*="sticky"]:style(position: static!important)
@@ -3723,9 +3723,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.it##div[class*="sticky"]:style(position: static!important)
@@ -4095,9 +4095,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.ir##div[class*="sticky"]:style(position: static!important)
@@ -4467,9 +4467,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.fr##div[class*="sticky"]:style(position: static!important)
@@ -4839,9 +4839,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.pl##div[class*="sticky"]:style(position: static!important)
@@ -5211,9 +5211,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.info##div[class*="sticky"]:style(position: static!important)
@@ -5583,9 +5583,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.es##div[class*="sticky"]:style(position: static!important)
@@ -5955,9 +5955,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.au##div[class*="sticky"]:style(position: static!important)
@@ -6327,9 +6327,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.ua##div[class*="sticky"]:style(position: static!important)
@@ -6699,9 +6699,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.co##div[class*="sticky"]:style(position: static!important)
@@ -7071,9 +7071,9 @@
 ! Description: A generic list that makes annoying sticky headers unsticky
 ! Expires: 14 days
 ! Author: elypter
-! Homepage: https://github.com/elypter/generic_annoying_stickybar_filter
-! Support: https://github.com/elypter/generic_annoying_stickybar_filter/issues
-! Download: https://raw.githubusercontent.com/elypter/generic_annoying_stickybar_filter/master/prefixes.txt
+! Homepage: https://github.com/elypter/filter_processor/blob/master/generated_filterlists
+! Support: https://github.com/elypter/filter_processor/blob/master/generated_filterlists/issues
+! Download: https://raw.githubusercontent.com/elypter/filter_processor/master/generated_filterlists/blockhead(decoy_generic_selection).txt
 ! License: GPL-3.0
 
 *.kr##div[class*="sticky"]:style(position: static!important)
